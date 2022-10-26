@@ -12,7 +12,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gustavohralves&theme=algolia&row=1&no-bg=true&column=6&margin-w=20&margin-h=20" />
 </p> -->
-  
+
+<br><br>
+<div align="center">
+
 ### Main skills:
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; -->
 <!-- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; -->
@@ -49,6 +52,8 @@
 <!-- <div align="left">  
 <a href="https://www.linkedin.com/in/gustavohralves" target="_blank"><img src="https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> -->
+<br><br>
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
