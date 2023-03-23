@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Henrique;I'm+20+years+old;I+study+Computer+Science;I'm+RPA+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Henrique;I'm+21+years+old;I+study+Computer+Science;I'm+RPA+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavohralves&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Henrique github stats" /> 
